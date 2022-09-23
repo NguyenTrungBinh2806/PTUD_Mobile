@@ -1,0 +1,1 @@
+export const baseUrl = 'http://binhnt.herokuapp.com/';
